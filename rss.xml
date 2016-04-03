@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[xtc.io]]></title>
+        <description><![CDATA[xtc.io]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Apr 2016 00:24:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hallo. Ich bin Chris. Ich lebe im Rheinland und bin zarte 41 Jahre alt und seit 1995 nicht offline gewesen. </p>]]></description>
+            <link>undefined5344b750-d4b0-4464-ba93-f2507dfa2943/index.html</link>
+            <guid isPermaLink="false">5344b750-d4b0-4464-ba93-f2507dfa2943</guid>
+            <pubDate>Sun, 03 Apr 2016 00:24:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
