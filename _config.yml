@@ -1,0 +1,28 @@
+name: xtc.io
+favicon: null
+layout_spectrum: 0.3371829818934202
+typography_spectrum: 0.2619483422022313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.00856670644134283
+  lightness: 0.4121350396890193
+  saturation: 0.6095071358140558
+  rhythmicContrast: 0.34555184515193105
+purpose: []
