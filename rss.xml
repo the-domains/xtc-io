@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[xtc.io]]></title>
         <description><![CDATA[xtc.io]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xtc-io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 00:24:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 00:28:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xtc-io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hallo. Ich bin Chris. Ich lebe im Rheinland und bin zarte 41 Jahre alt und seit 1995 nicht offline gewesen. </p>]]></description>
-            <link>undefined5344b750-d4b0-4464-ba93-f2507dfa2943/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/559b27e5-4b2d-46de-9f8f-80d6f85f4ad9.jpg">]]></description>
+            <link>https://thegrid.ai/xtc-io/5344b750-d4b0-4464-ba93-f2507dfa2943/index.html</link>
             <guid isPermaLink="false">5344b750-d4b0-4464-ba93-f2507dfa2943</guid>
-            <pubDate>Sun, 03 Apr 2016 00:24:17 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 00:27:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
